@@ -1,4 +1,12 @@
 .box {
     display: flex;
     padding: 10px;
+    color: blue;
+    font-style: italic;
+    border-style: groove ;
+    border-color: indigo;
+    
+ }
+ app-header{
+    color: green;
  }
